@@ -10,7 +10,7 @@ If you want to add new analyzers or make changes to existing fields, you need to
 
 | Version   | Tested On Elasticsearch |
 |:---------:|:-----------------------:|
-| master    | 2.1.X                   |
+| master    | 2.3.X                   |
 | 2.1.1     | 2.1.1                   |
 | 2.1.0     | 2.1.0                   |
 | 1.7.0     | 1.7.1                   |
